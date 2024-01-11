@@ -1,8 +1,17 @@
 {
   "socials" :
+  [
     {
-      "gitlab":"https://gitlab.com/humamalamin",
-      "github":"https://github.com/humamalamin",
-      "linkedin":"https://www.linkedin.com/in/humam-al-amin-5b7b9b134/"
-    }
+      "username": "https://gitlab.com/humamalamin",
+      "type": "gitlab"
+    },
+    {
+      "username": "https://github.com/humamalamin",
+      "type": "github"
+    },
+    {
+      "username": "https://www.linkedin.com/in/humam-al-amin-5b7b9b134/",
+      "type": "linkedin"
+    },
+  ]
 }
