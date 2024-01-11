@@ -1,6 +1,5 @@
 {
-  "socials" :
-  [
+  "socials" : [
     {
       "username": "https://gitlab.com/humamalamin",
       "type": "gitlab"
